@@ -3,9 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@babel/core": "7.4.3",
-    "@babel/register": "^7.8.3",
-    "@babel/runtime": "^7.8.3",
+    "@babel/core": "7.23.2",
+    "@babel/register": "^7.22.15",
+    "@babel/runtime": "^7.23.2",
     "@juggle/resize-observer": "^2.5.0",
     "@react-three/drei": "^2.1.1-beta.5",
     "@svgr/webpack": "4.1.0",
